@@ -5,6 +5,3 @@ server/dist/
 client/.env/
 server/.env/
 client/.next/
-ec2-inventoryman.pem
-inventory.pem
-standard-key.pem
